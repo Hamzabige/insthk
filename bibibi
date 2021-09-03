@@ -1,0 +1,6 @@
+print("hacker") 
+print ("3*6")
+print (and "Instagram")
+print ("a=18")
+print ("b=hack instagram") 
+print repr ("a=b") 
